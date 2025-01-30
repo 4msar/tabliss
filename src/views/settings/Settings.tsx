@@ -93,25 +93,14 @@ const Settings: React.FC = () => {
         <Persist />
 
         <div style={{ textAlign: "center" }} className="Widget">
-          <h4>Support Tabliss</h4>
+          <h4>Tabliss</h4>
           <p>
-            <a
-              href="https://www.paypal.com/donate/?hosted_button_id=FK7VRWS9A2EW4"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="button button--primary"
-              title="I do love coffee"
-            >
-              <Icon name="coffee" /> Donate a coffee 😍
-            </a>
-          </p>
-          <p>
-            <a href="https://tabliss.io/" target="_blank">
+            <a href="https://tab.msar.dev/" target="_blank">
               <Icon name="globe" /> Website
             </a>
             &nbsp;&nbsp;
             <a
-              href="https://twitter.com/tabliss"
+              href="https://twitter.com/4msar"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -119,7 +108,7 @@ const Settings: React.FC = () => {
             </a>
             &nbsp;&nbsp;
             <a
-              href="https://github.com/joelshepherd/tabliss"
+              href="https://github.com/4msar/tabliss"
               rel="noopener noreferrer"
               target="_blank"
             >
